@@ -1,0 +1,12 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;    
+}
+#titlecard {
+    background-color: lightyellow;
+}
+#todolistcard {            
+    background-color: lightslategrey;    
+}
+#completedtaskcard {
+    background-color: lightsteelblue;
+}
